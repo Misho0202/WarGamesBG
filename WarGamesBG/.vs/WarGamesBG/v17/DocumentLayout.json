@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|WarGamesBG.Tests\\WarGamesBG.Tests.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|WarGamesBG.Tests\\WarGamesBG.Tests.csproj|solutionrelative:wargamesbg.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|WarGamesBG.Tests\\WarGamesBG.Tests.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg.tests\\wargamesbg.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|WarGamesBG.Tests\\WarGamesBG.Tests.csproj|solutionrelative:wargamesbg.tests\\wargamesbg.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|WarGamesBG.DL\\WarGamesBG.DL.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg.dl\\wargamesbg.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|WarGamesBG.DL\\WarGamesBG.DL.csproj|solutionrelative:wargamesbg.dl\\wargamesbg.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|WarGamesBG\\WarGamesBG.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg\\wargamesbg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|WarGamesBG\\WarGamesBG.csproj|solutionrelative:wargamesbg\\wargamesbg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|WarGamesBG.BL\\WarGamesBG.BL.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg.bl\\wargamesbg.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|WarGamesBG.BL\\WarGamesBG.BL.csproj|solutionrelative:wargamesbg.bl\\wargamesbg.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|WarGamesBG.Models\\WarGamesBG.Models.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg.models\\wargamesbg.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|WarGamesBG.Models\\WarGamesBG.Models.csproj|solutionrelative:wargamesbg.models\\wargamesbg.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|WarGamesBG\\WarGamesBG.csproj|c:\\users\\misho0202\\desktop\\wargamesbg\\wargamesbg\\wargamesbg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|WarGamesBG\\WarGamesBG.csproj|solutionrelative:wargamesbg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "WarGamesBG.Tests\\GameServiceTests.cs",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\GameServiceTests.cs",
+              "RelativeToolTip": "WarGamesBG.Tests\\GameServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:59:47.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarGamesBG.Tests",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
+              "RelativeDocumentMoniker": "WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
+              "RelativeToolTip": "WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:59:24.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarGamesBG.DL",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
+              "RelativeDocumentMoniker": "WarGamesBG.DL\\WarGamesBG.DL.csproj",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
+              "RelativeToolTip": "WarGamesBG.DL\\WarGamesBG.DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:59:22.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarGamesBG",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG\\WarGamesBG.csproj",
+              "RelativeDocumentMoniker": "WarGamesBG\\WarGamesBG.csproj",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG\\WarGamesBG.csproj",
+              "RelativeToolTip": "WarGamesBG\\WarGamesBG.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:59:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarGamesBG.BL",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.BL\\WarGamesBG.BL.csproj",
+              "RelativeDocumentMoniker": "WarGamesBG.BL\\WarGamesBG.BL.csproj",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.BL\\WarGamesBG.BL.csproj",
+              "RelativeToolTip": "WarGamesBG.BL\\WarGamesBG.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:52:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarGamesBG.Models",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj",
+              "RelativeDocumentMoniker": "WarGamesBG.Models\\WarGamesBG.Models.csproj",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj",
+              "RelativeToolTip": "WarGamesBG.Models\\WarGamesBG.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T20:59:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG\\Program.cs",
+              "RelativeDocumentMoniker": "WarGamesBG\\Program.cs",
+              "ToolTip": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG\\Program.cs",
+              "RelativeToolTip": "WarGamesBG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:53:38.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

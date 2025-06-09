@@ -1,0 +1,6 @@
+@WarGamesBG_HostAddress = http://localhost:5236
+
+GET {{WarGamesBG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

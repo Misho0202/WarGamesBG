@@ -1,0 +1,60 @@
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\bin\Debug\net8.0\GameStore.Models.deps.json
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\bin\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\bin\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfoInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfo.cs
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\refint\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\MovieStoreC-main\GameStore.Models\obj\Debug\net8.0\ref\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.deps.json
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfoInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfo.cs
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\refint\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\ref\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.sourcelink.json
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\bin\Debug\net8.0\GameStore.Models.deps.json
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\bin\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\bin\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfoInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfo.cs
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.sourcelink.json
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\refint\GameStore.Models.dll
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\GameStore.Models.pdb
+C:\Users\ivo_0\OneDrive\Работен плот\GameStoreB\GameStoreB\GameStore.Models\obj\Debug\net8.0\ref\GameStore.Models.dll
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.AssemblyReference.cache
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfoInputs.cache
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfo.cs
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.CoreCompileInputs.cache
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.sourcelink.json
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.dll
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\refint\GameStore.Models.dll
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.pdb
+D:\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.deps.json
+D:\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.dll
+D:\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.pdb
+D:\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\ref\GameStore.Models.dll
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.deps.json
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.dll
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\bin\Debug\net8.0\GameStore.Models.pdb
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.AssemblyReference.cache
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfoInputs.cache
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.AssemblyInfo.cs
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.dll
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\refint\GameStore.Models.dll
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\GameStore.Models.pdb
+C:\Users\MISHO0202\Desktop\GameStore\GameStore\GameStore.Models\obj\Debug\net8.0\ref\GameStore.Models.dll

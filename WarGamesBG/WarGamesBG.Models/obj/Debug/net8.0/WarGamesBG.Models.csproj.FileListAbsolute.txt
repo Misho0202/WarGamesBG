@@ -1,0 +1,12 @@
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\bin\Debug\net8.0\WarGamesBG.Models.deps.json
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\bin\Debug\net8.0\WarGamesBG.Models.dll
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\bin\Debug\net8.0\WarGamesBG.Models.pdb
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.csproj.AssemblyReference.cache
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.AssemblyInfoInputs.cache
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.AssemblyInfo.cs
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.csproj.CoreCompileInputs.cache
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.dll
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\refint\WarGamesBG.Models.dll
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\WarGamesBG.Models.pdb
+C:\Users\MISHO0202\Desktop\WarGamesBG\WarGamesBG\WarGamesBG.Models\obj\Debug\net8.0\ref\WarGamesBG.Models.dll
