@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNN6J2X4Vqk=",
+  "dgSpecHash": "+2UbDTIvr+I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\confluent.kafka\\2.10.0\\confluent.kafka.2.10.0.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\librdkafka.redist\\2.10.0\\librdkafka.redist.2.10.0.nupkg.sha512",

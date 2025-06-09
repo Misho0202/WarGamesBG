@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qj3siGHNsb0=",
+  "dgSpecHash": "X/gp5Rkb9BE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.Tests\\WarGamesBG.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\confluent.kafka\\2.10.0\\confluent.kafka.2.10.0.nupkg.sha512",

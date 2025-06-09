@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nrDhVtsjKsg=",
+  "dgSpecHash": "PTq9WeXT/SM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.BL\\WarGamesBG.BL.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.BL\\WarGamesBG.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\confluent.kafka\\2.10.0\\confluent.kafka.2.10.0.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

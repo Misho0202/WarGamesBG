@@ -3016,11 +3016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
+      "projectUniqueName": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
       "projectName": "WarGamesBG.DL",
-      "projectPath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
+      "projectPath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\WarGamesBG.DL.csproj",
       "packagesPath": "C:\\Users\\MISHO0202\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\obj\\",
+      "outputPath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.DL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3041,8 +3041,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj": {
-              "projectPath": "C:\\Users\\MISHO0202\\Desktop\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj"
+            "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj": {
+              "projectPath": "E:\\Documents\\GitHub\\WarGamesBG\\WarGamesBG\\WarGamesBG.Models\\WarGamesBG.Models.csproj"
             }
           }
         }

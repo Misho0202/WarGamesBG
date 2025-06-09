@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarGamesBG.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514287d03dc40460ee4552bb8bd9e296bb7e6300")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarGamesBG.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarGamesBG.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

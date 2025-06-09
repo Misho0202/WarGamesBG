@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Other
+*.log
+*.vsidx
+*.vscode
+*.tmp
+*.cache
